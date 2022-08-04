@@ -70,7 +70,7 @@
 <style>
   .ag-container {
     width: 100%;
-    height: var(--grid-height, 800px);
+    height: var(--grid-height, 90vh);
   }
 </style>
 
